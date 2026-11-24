@@ -1,8 +1,6 @@
 # FC Launcher Kullanım Lisansı
 
-> **TASLAK.** Furkan Cavlak onaylayana kadar geçerli metin değildir. Bir avukat tarafından gözden geçirilmemiştir.
-
-Sürüm 1.0
+Sürüm 1.0 · 25.11.2026
 
 Telif hakkı © 2026 Furkan Cavlak. Tüm hakları saklıdır.
 
@@ -47,10 +45,15 @@ Yazılım'ın içinde başkalarının açık kaynak bileşenleri vardır (örne�
 Onlar kendi lisanslarına tabidir; lisans metinleri programla birlikte gelir. Bu lisans, o bileşenlerde sana tanınan
 hakları kısıtlamaz.
 
-## TikTok
+## TikTok, yasaklanma ve kazanç
 
-FC Launcher TikTok LIVE ile çalışır; TikTok ile bağlantılı değildir. Yayınında kullandığın araçlardan ve TikTok
-kurallarına uymaktan sen sorumlusun.
+- FC Launcher TikTok LIVE ile çalışır; TikTok ile bağlantılı değildir, TikTok tarafından onaylanmamış ve
+  desteklenmemiştir.
+- Yazılım, TikTok'un yayınını ya da hesabını kısıtlamayacağını garanti etmez. Yayınında kullandığın araçlardan ve
+  TikTok kurallarına uymaktan sen sorumlusun.
+- Yayının kısıtlanması, hesabın askıya alınması ya da kapatılması dahil hiçbir sonuçtan Furkan Cavlak sorumlu
+  tutulamaz.
+- Yazılım'la gelir, izleyici ya da hediye artışı sağlanacağı vaat edilmez.
 
 ## Garanti ve sorumluluk
 
