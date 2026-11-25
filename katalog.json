@@ -1,16 +1,17 @@
 {
   "sema": 1,
-  "yayinZamani": "2026-11-25T18:02:57Z",
+  "yayinZamani": "2026-11-25T22:12:18Z",
   "enAzLauncher": "1.0.0",
   "launcher": {
-    "sonSurum": "1.0.1",
+    "sonSurum": "1.0.2",
     "notlar": [
-      "Yayına hazırlarken oyun penceresi önceden açılır; LIVE Studio’da kaynağı oyun başlamadan ekleyebilirsin."
+      "Oyunların kendi ayarları (örnek: başlangıç tabancası) oyun sayfasında görünür.",
+      "Bağlantı koparsa nedeni kayda yazılır."
     ],
     "kurucu": {
-      "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/launcher-1.0.1/FC-Launcher-Kurulum-1.0.1.exe",
-      "sha256": "b792b57ac0b4db5bfba0c4ddf98f7d82eee5c418911255275dc18511a5cf583e",
-      "boyut": 126534398
+      "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/launcher-1.0.2/FC-Launcher-Kurulum-1.0.2.exe",
+      "sha256": "88dc1e5979181d10b1ccdb0509fc1ac191cce7ba4245631b2332bc64b36857fe",
+      "boyut": 126534995
     }
   },
   "oyunlar": [
@@ -19,41 +20,50 @@
       "ad": "Araba Yıkama",
       "kisa": "İzleyici kirletir, yayıncı yıkar.",
       "aciklama": "Dükkân senin. Gelen arabayı köpükle, yıka, parasını al. İzleyiciler hediyeyle arabaya çamur atar ya da su kovası döker; sen yetişmeye çalışırsın.",
-      "surum": "1.0.1",
+      "surum": "1.0.2",
       "sdk": 1,
-      "enAzLauncher": "1.0.0",
-      "indirmeBayt": 124899977,
+      "enAzLauncher": "1.0.2",
+      "indirmeBayt": 124912505,
       "manifest": {
-        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.1/manifest.json",
-        "sha256": "c355b02c2974486e7db7d9b32280f023f79d38ee0b6bf6bc03c803656169cac8"
+        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/manifest.json",
+        "sha256": "b50cf39d63aad5565a82798922088c2af9205796303eb18540085921d7118ea3"
       },
       "afis": {
-        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.1/afis.jpg",
+        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/afis.jpg",
         "sha256": "0023d132df4ae747213663eceef88302da854c27ec63cd0872b712bb50cb602b"
       },
       "kapak": {
-        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.1/kapak.jpg",
+        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/kapak.jpg",
         "sha256": "071c67c0d18dff7b8057ee272e9e0fd120f8128eebe5f3dec919c7e28b71e060"
       },
       "afisEk": [
         {
-          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.1/afis-2.jpg",
+          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/afis-2.jpg",
           "sha256": "9abdab610d7bf2f499ee0bdafdc9c9dd0a0e9ca26a1c15c1c29d998bf1bcb9f7"
         },
         {
-          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.1/afis-3.jpg",
+          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/afis-3.jpg",
           "sha256": "f2a33796861c79a09156f5902e68ae1375a277238b4ec7febdc3056bbd881ede"
         },
         {
-          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.1/afis-4.jpg",
+          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/afis-4.jpg",
           "sha256": "82ab6634c97d88c72cb36e647c1db463be8451415def3d211d06fa3464c3d205"
         },
         {
-          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.1/afis-5.jpg",
+          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/afis-5.jpg",
           "sha256": "2f16a631fd954ea863e389f7eeb006c03e61436f77d3cf95b1b2bc8d3bc44b11"
         }
       ],
       "degisiklikler": [
+        {
+          "surum": "1.0.2",
+          "maddeler": [
+            "Başlangıç tabancasını oyun sayfasından seçebilirsin.",
+            "Su kovası hediyesi artık arabayı temizler.",
+            "Oyuncak tabanca daha hızlı yıkar.",
+            "Jip daha çamurlu gelir."
+          ]
+        },
         {
           "surum": "1.0.1",
           "maddeler": [
