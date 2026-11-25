@@ -1,6 +1,6 @@
 {
   "sema": 1,
-  "yayinZamani": "2026-11-25T22:12:18Z",
+  "yayinZamani": "2026-11-25T23:22:46Z",
   "enAzLauncher": "1.0.0",
   "launcher": {
     "sonSurum": "1.0.2",
@@ -20,41 +20,47 @@
       "ad": "Araba Yıkama",
       "kisa": "İzleyici kirletir, yayıncı yıkar.",
       "aciklama": "Dükkân senin. Gelen arabayı köpükle, yıka, parasını al. İzleyiciler hediyeyle arabaya çamur atar ya da su kovası döker; sen yetişmeye çalışırsın.",
-      "surum": "1.0.2",
+      "surum": "1.0.3",
       "sdk": 1,
       "enAzLauncher": "1.0.2",
-      "indirmeBayt": 124912505,
+      "indirmeBayt": 124901603,
       "manifest": {
-        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/manifest.json",
-        "sha256": "b50cf39d63aad5565a82798922088c2af9205796303eb18540085921d7118ea3"
+        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.3/manifest.json",
+        "sha256": "f79f7800093bd3cee1a6b69f4a9c56af0c14dfd1b71ad1fc6187b2136a3097fe"
       },
       "afis": {
-        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/afis.jpg",
+        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.3/afis.jpg",
         "sha256": "0023d132df4ae747213663eceef88302da854c27ec63cd0872b712bb50cb602b"
       },
       "kapak": {
-        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/kapak.jpg",
+        "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.3/kapak.jpg",
         "sha256": "071c67c0d18dff7b8057ee272e9e0fd120f8128eebe5f3dec919c7e28b71e060"
       },
       "afisEk": [
         {
-          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/afis-2.jpg",
+          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.3/afis-2.jpg",
           "sha256": "9abdab610d7bf2f499ee0bdafdc9c9dd0a0e9ca26a1c15c1c29d998bf1bcb9f7"
         },
         {
-          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/afis-3.jpg",
+          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.3/afis-3.jpg",
           "sha256": "f2a33796861c79a09156f5902e68ae1375a277238b4ec7febdc3056bbd881ede"
         },
         {
-          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/afis-4.jpg",
+          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.3/afis-4.jpg",
           "sha256": "82ab6634c97d88c72cb36e647c1db463be8451415def3d211d06fa3464c3d205"
         },
         {
-          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.2/afis-5.jpg",
+          "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.3/afis-5.jpg",
           "sha256": "2f16a631fd954ea863e389f7eeb006c03e61436f77d3cf95b1b2bc8d3bc44b11"
         }
       ],
       "degisiklikler": [
+        {
+          "surum": "1.0.3",
+          "maddeler": [
+            "Jipin ön camı düzeltildi."
+          ]
+        },
         {
           "surum": "1.0.2",
           "maddeler": [
