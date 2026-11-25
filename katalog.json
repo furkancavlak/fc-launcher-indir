@@ -1,6 +1,6 @@
 {
   "sema": 1,
-  "yayinZamani": "2026-11-25T15:54:35Z",
+  "yayinZamani": "2026-11-25T16:06:06Z",
   "enAzLauncher": "1.0.0",
   "launcher": {
     "sonSurum": "1.0.0",
@@ -22,10 +22,10 @@
       "surum": "1.0.0",
       "sdk": 1,
       "enAzLauncher": "1.0.0",
-      "indirmeBayt": 124898364,
+      "indirmeBayt": 124898866,
       "manifest": {
         "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.0/manifest.json",
-        "sha256": "4717451601e7348456027e4696008c9a8bcc4bed6c091dfa67e23971e5c140ac"
+        "sha256": "72597e14e302095f938adfbd19267c360eda8f8a66329379f23efc23dd65150e"
       },
       "afis": {
         "url": "https://github.com/furkancavlak/fc-launcher-indir/releases/download/araba-yikama-1.0.0/afis.jpg",
