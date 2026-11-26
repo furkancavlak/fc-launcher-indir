@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="92" viewBox="0 0 460 92" role="img" aria-label="FC Launcher'ı indir: Windows 10 / 11, 127 MB, sürüm 1.0.2">
+  <rect x="1" y="1" width="458" height="90" rx="10" fill="#D6A928"/>
+  <rect x="1" y="1" width="458" height="90" rx="10" fill="none" stroke="#8A6A10" stroke-width="2"/>
+  <g fill="none" stroke="#141310" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 26v30"/>
+    <path d="M33 45l13 13 13-13"/>
+    <path d="M30 68h32"/>
+  </g>
+  <text x="84" y="43" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="26" font-weight="800" fill="#141310" letter-spacing="0.5">FC LAUNCHER'I İNDİR</text>
+  <text x="84" y="68" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#3A2F0C">Windows 10 / 11  ·  127 MB  ·  sürüm 1.0.2</text>
+</svg>
